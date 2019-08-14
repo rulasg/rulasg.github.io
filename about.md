@@ -26,13 +26,13 @@ Buscamos conocer el Espacio cuando aún no conocemos los océanos. Buscamos la f
 <!-- ![https://simonsinek.com/about/simon-sinek](images/simonsinek.png) -->
 
 <a href="https://simonsinek.com/about/simon-sinek">
-    <img src="images/simonsinek.png" width = 200> 
+    <img src="{{ site.baseurl }}/images/simonsinek.png" width = 200> 
 </a>
 <a href="https://brenebrown.com/">
-    <img src="images/brenebrown.jpg" width = 200> 
+    <img src="{{ site.baseurl }}/images/brenebrown.jpg" width = 200> 
 </a>
  <a href="http://www.emilioduro.es/">
-    <img src="images/emilioduro.jpg" width = 200>
+    <img src="{{ site.baseurl }}/images/emilioduro.jpg" width = 200>
   </a>
 
 
