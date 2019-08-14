@@ -9,17 +9,21 @@ Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio
 
 ### Más Información
 
-Sé que hay mucha gente que cree, o quiere creer, en que lo establecido no es la única manera y que si todos nos pusiéramos de acuerdo podríamos cambiar las cosas. Sé que hay mucha gente cree que uno solo no cambia nada, y que si no jugamos a lo que juegan los demás saldrá perdiendo.
+#### 1. Si no somos parte de la solución somos parte del problema?
+No me confirmo con el mundo tal y como es. En particular en como la gente se trata.
 
-Pues sí, habrá un tiempo donde unos pocos seremos considerados "tontos" e "ingenuos", donde parecerá que saldremos perdiendo en el trato con otros y  aunque admirados, pocos creerán que actuar con honor, fieles a la verdad y a nosotros mismos servirá de algo.
-Pero yo digo que servirá de ejemplo para otros y para nuestros hijos. Que poco a poco se perderá el miedo a lo que me puedan hacer y dejaremos de vivir a la defensiva. Dejaremos de vivir en el individualismo y volveremos a sentirnos en comunidad dando sentido a nuestras vidas ayudando y conviviendo con otros.
+La mentira, el egoísmo, el engaño, la picaresca... es lo que la gente espera de los demás. Y en respuesta el trato es a la defensiva.
 
-En muchos lugares del mundo nunca lo perdieron. Ahora nos toca, a los países "mas desarrollados", volver a encontrarnos. 
-Dejemos de correr buscando la felicidad delante, volvámonos y nos daremos cuenta que la felicidad la dejamos atrás hace mucho.
+El cambio comienza con uno mismo. Seamos el ejemplo que queremos para nuestros hijos y cambiemos el circulo vicioso de la desconfianza, la mentira y la picaresca por el de la confianza, el respeto, el honor, la palabra dada y el sentido de comunidad.
 
-Buscamos conocer el Espacio cuando aún no conocemos los océanos. Buscamos la felicidad lejos cuando aun no nos conocemos a nosotros mismos.
+Cuanto antes cambiemos como individuos, antes cambiaremos como sociedad.
 
-> Dejemos de correr mirando y aprendamos a ver estando.
+#### 2. Donde esta la felicidad?
+Corremos ansiando la zanahoria que nos ponen delante, creyendo que detrás esta la felicidad.
+
+Creemos saber que queremos cuando aun no sabemos quienes somos. 
+
+Entendamos quienes somos, como somos, que queremos antes de intentar adivinar que nos hace felices.
 
 ## Referencias
 
