@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
+excerpt: 
 ---
 
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a los h@mbres mas humanos.
 
-### More Information
+### Más Información
 
 Sé que hay mucha gente que cree, o quiere creer, en que lo establecido no es la única manera y que si todos nos pusiéramos de acuerdo podríamos cambiar las cosas. Sé que hay mucha gente cree que uno solo no cambia nada, y que si no jugamos a lo que juegan el resto saldremos perdiendo.
 
@@ -20,10 +21,10 @@ Buscamos conocer el espacio cuando aún no conocemos los océanos. Buscamos la f
 Dejemos que correr mirando y aprendamos a ver estando.
 
 ## Referencias
-#### [Simon Sinek](https://simonsinek.com/about/simon-sinek)
-#### [Brené Brown](https://brenebrown.com/)
-#### [Emilio Duró](http://www.emilioduro.es/)
+* #### [Simon Sinek](https://simonsinek.com/about/simon-sinek)
+* #### [Brené Brown](https://brenebrown.com/)
+* #### [Emilio Duró](http://www.emilioduro.es/)
 
-### Contact me
+### Contacta me
 
 [@rulasg](https://twitter.com/rulasg)
