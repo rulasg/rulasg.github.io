@@ -25,15 +25,11 @@ Buscamos conocer el Espacio cuando aún no conocemos los océanos. Buscamos la f
 
 <!-- ![https://simonsinek.com/about/simon-sinek](images/simonsinek.png) -->
 
-<a href="https://simonsinek.com/about/simon-sinek">
-    <img src="{{ site.baseurl }}/images/simonsinek.png" width = 200> 
-</a>
-<a href="https://brenebrown.com/">
-    <img src="{{ site.baseurl }}/images/brenebrown.jpg" width = 200> 
-</a>
- <a href="http://www.emilioduro.es/">
-    <img src="{{ site.baseurl }}/images/emilioduro.jpg" width = 200>
-  </a>
+
+![https://simonsinek.com/about/simon-sinek](/images/simonsinek.png)
+![https://brenebrown.com/](/images/brenebrown.jpg)
+![http://www.emilioduro.es/](/images/emilioduro.jpg)
+  
 
 
 ### Contacta me
