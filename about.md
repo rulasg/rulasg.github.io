@@ -27,8 +27,13 @@ Buscamos conocer el Espacio cuando aún no conocemos los océanos. Buscamos la f
 
 
 ![https://simonsinek.com/about/simon-sinek](/images/simonsinek.png)
+[Simon Sinek](https://simonsinek.com/about/simon-sinek)
+
 ![https://brenebrown.com/](/images/brenebrown.jpg)
+[Brené Brown](https://brenebrown.com/)
+
 ![http://www.emilioduro.es/](/images/emilioduro.jpg)
+[Emilio Duró](http://www.emilioduro.es/)
   
 
 
