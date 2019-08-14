@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Cómo ~~no~~ aconsejar a jóvenes?
+title: ¿Cómo <s>no</s> aconsejar a jóvenes?
 categories: [blog, social]
 tags: [ideas, life]
 ---
