@@ -71,12 +71,7 @@ En la vida tenemos distintos roles. No es lo mismo el Padre, el Ingeniero o el m
 
 ¿Qué valoramos? ¿Que esperamos?
 
-## Por partes y elementos.
-¿Como medir la fortaleza de una relacion?
-
-Entendamos los elementos predominantes de cada miembro y luego comparemos con el contenido que tiene ese elemento en la relación. ¿Es suficiente para todos los miembros?
-
-## Influir en una relacion
+## La clave de una relación estable.
 Soy de los que creo que una buena relación no se construye entre gente igual sino entre gente complementaria.
 
 Las necesidades de cada miembro son distintas y lo importante no es que cada todos obtenga lo mismo, sino que cada parte obtenga lo que necesita.
@@ -91,7 +86,10 @@ Detectar que le falta a quien y poner remedio es la manera de asegurar la contin
 
 Trabajar todos los dias, desde el principio hasta su fin, para alimentar los elementos predominantes de los miembros de la relación para aumentar el valor que le da cada miembro a la relación, es la manera de conseguir que sea cada dia mas grande, mas placentera, mas fuerte, mas fructífera, mas indestructible, mas plena.
 
+## Por partes y elementos.
+¿Como medir la fortaleza de una relacion?
 
+Entendamos los elementos predominantes de cada miembro y luego comparemos con el contenido que tiene ese elemento en la relación. ¿Es suficiente para todos los miembros?
 
 
 

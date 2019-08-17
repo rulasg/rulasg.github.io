@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 excerpt: 
 ---
-
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a los h@mbres más humanos.
 
 ### Más Información
