@@ -3,7 +3,7 @@ layout: post
 title: Tierra, Agua, Fuego y Aire en las relaciones.
 categories: [blog, social]
 tags: [ideas, life]
-permalink: /draft/
+permalink: /draft2/
 
 ---
 
