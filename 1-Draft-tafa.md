@@ -7,11 +7,12 @@ permalink: /draft1/
 
 ---
 
-> En este post entenderemos `"relación"` a la influencia personal de una o más personas sobre otra. La relación de pareja es, sino la más importante, una de entre todas de las que disfrutamos.
+> En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es probablemente la relación más importante de las que disfrutamos.
 
-Todos los días nos relacionamos con gente ya sea en el ámbito familiar, personal, intimo o profesional. Esas relaciones suelen ser fáciles, pero a veces no lo son.
+Todos los días tratamos con gente ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son.
 
-Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones, pero si pensamos en una relación desde cada uno de los 4 elementos básicos que la componen, así como desde cada miembro que la forma, dividimos la complejidad por factor de 6 o más.
+Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.  
+Una relación está compuesta por 4 elementos básicos. Si pensamos en una relación desde cada uno de los 4 elementos básicos que la componen se puede dividir la complejidad por factor de 4 o más.
 
 ## Los 4 elementos básicos
 
@@ -24,7 +25,7 @@ El tiempo compartido y el contenido durante ese tiempo.
 El contacto físico y todo lo que tenga que ver con ello.
 
 1. **Agua** -
-La opinión y el valor que cada parte le da a la otra y sus consecuencias en cuanto a respeto, admiración, valorar, compromiso, unidad, equipo, etc.
+La opinión y el valor que cada parte tiene de la otra y sus consecuencias. Respeto, admiración, valorar, compromiso, unidad, equipo, etc.
 
 1. **Aire** -
 Todos los sentimientos que surjan de una relación.
