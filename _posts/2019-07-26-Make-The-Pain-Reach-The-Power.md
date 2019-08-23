@@ -3,6 +3,7 @@ layout: post
 title: "Make the pain reach the power"
 categories: [blog, social]
 tags: [ideas, life]
+hashtag: makethepainreachthepower
 ---
 Cuál es el motivo por lo que determinados problemas no se resuelven. Tanto en la vida laboral, como en el ámbito social o personal, podemos ver como problemas no se resuelven, aunque aparentemente el coste sea bajo y el beneficio sea elevado.
 

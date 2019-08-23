@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 excerpt: Algunas cosas que me definen
+hashtag: about
 ---
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
 
