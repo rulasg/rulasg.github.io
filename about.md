@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: 
+excerpt: Algunas cosas que me definen
 ---
-Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a los h@mbres más humanos.
+Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
 
 ### Más Información
 
@@ -41,7 +41,7 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
   
 ### Agradecimientos
 
-Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revision de estos posts. Mil gracias Lore :wink:
+Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore :wink:
 
 ### Contacta me
 
