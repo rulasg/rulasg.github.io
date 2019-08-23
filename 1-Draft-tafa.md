@@ -4,7 +4,7 @@ title: Tierra, Agua, Fuego y Aire en las relaciones.
 categories: [blog, social]
 tags: [ideas, life]
 permalink: /draft1/
-
+hashtag: TierraAguaFuegoAireEnRelaciones
 ---
 
 > En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es probablemente la relación más importante de las que disfrutamos.

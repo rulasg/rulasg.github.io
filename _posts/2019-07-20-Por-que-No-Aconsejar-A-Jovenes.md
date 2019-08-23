@@ -3,7 +3,7 @@ layout: post
 title: ¿Por qué <s>no</s> aconsejar a jóvenes?
 categories: [blog, social]
 tags: [ideas, life]
-hashtag: noaconsejarajovenes
+hashtag: NoAconsejarAJovenes
 ---
 Esta semana, he vuelto a ver a los hijos de un buen amigo que ahora viven lejos y por lo tanto veo pocas veces al año. La mayor, de 12 años, ya es toda  una señorita. Ya empieza a ver y preguntar sobre el mundo como hacemos los adultos, y no puedo evitar sentir la impotencia de saber, que a pesar de tener la experiencia, no hay vacuna para evitarle algunos pasajes de su vida que la harán sufrir.
 El que tiene hijos, o tiene jóvenes cerca, se ha enfrentado al reto, o tentación, de aconsejarles. ¿Cómo hacerlo? ¿Hasta donde hacerlo? Difícil, muy difícil.
