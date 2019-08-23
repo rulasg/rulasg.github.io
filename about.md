@@ -6,9 +6,11 @@ excerpt: Algunas cosas que me definen
 ---
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
 
-### Más Información
+[Agradecimientos](#agradecimientos)
 
-#### 1. Si no somos parte de la solución somos parte del problema
+## Más Información
+
+### 1. Si no somos parte de la solución somos parte del problema
 
 No me confirmo con el mundo tal y como es. En particular en cómo la gente se trata.
 
@@ -18,7 +20,7 @@ El cambio comienza con uno mismo. Seamos el ejemplo que queremos para nuestros h
 
 Cuanto antes cambiemos como individuos, antes cambiaremos como sociedad.
 
-#### 2. Dónde está la felicidad
+### 2. Dónde está la felicidad
 
 Corremos ansiando la zanahoria que nos ponen delante, creyendo que detrás esta la felicidad.
 
@@ -39,10 +41,10 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
 ![http://www.emilioduro.es/](/images/emilioduro.jpg)
 [Emilio Duró](http://www.emilioduro.es/)
   
-### Agradecimientos
+## Agradecimientos
 
 Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore :wink:
 
-### Contacta me
+## Contacta
 
 [@rulasg](https://twitter.com/rulasg)
