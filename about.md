@@ -39,6 +39,10 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
 ![http://www.emilioduro.es/](/images/emilioduro.jpg)
 [Emilio Duró](http://www.emilioduro.es/)
   
+### Agradecimientos
+
+Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revision de estos posts. Mil gracias Lore :wink:
+
 ### Contacta me
 
 [@rulasg](https://twitter.com/rulasg)
