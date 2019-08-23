@@ -104,9 +104,14 @@ Entender cuales son los elementos predominantes de una persona es un modo de ide
 
 Cuanto mas alimentados los elementos predominantes de cada miembro de una relacion, mas valor tendrá la relacion para sus miembros, haciendo la mas fuerte y duradera.
 
-## Por partes y elementos
+## Por elementos y por miembros
 
-Por lo tanto llegamos al punto donde conocernos es el primer paso para tener relaciones fuertes y sanas. ¿Pero es eso fácil? Y conocer al resto de miembros de una relación.
-Ese es el objetivo de esta técnica. Intentar dividir la complejidad de un individuo en partes mas sencillas para facilitar el ejercicio de conocernos.
+Por lo tanto llegamos a la conclusión de que conocernos es el primer paso para tener relaciones fuertes y sanas. ¿Pero es eso fácil? Y conocer al resto de miembros de una relación.
 
-Por lo tanto para analizar una relación basta con analizar cada elemento de cada miembro y medír cómo de satisfechas estas las necesidades que surgen de el.
+Ese es el objetivo de esta técnica. Intentar dividir la complejidad de un individuo en partes más sencillas para facilitar el ejercicio de conocerlo, ya seamos nosotros mismo y otra persona.
+
+Por lo tanto para analizar una relación basta con analizar cada elemento de cada miembro y medír cómo de satisfechas están las necesidades que surgen de él.
+
+## Conclusión
+
+En futuros posts iremos planteando ideas y ejemplos para ayudar a conocer y entender cómo estos elementos predominan en nosotros y en el resto de miembros de una relacion.
