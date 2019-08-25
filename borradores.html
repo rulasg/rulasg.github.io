@@ -11,14 +11,14 @@ layout: default
       {{ draft.excerpt }}
     </div>
 
-    <small>
-      <i>Escrito el {{ draft.date | date: "%e / %b / %Y" }}</i>
-      <br>
-      <b>{{draft.category}}</b>
-    </small>
-    <br>
-      <!-- <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ draft.path }}" >...</a>       -->
-      {{ include sourcelink.html path={{draft.path}}}}
+    <a href="{{ include.url }}" class="read-more">Leer mas</a>
+
+    {{include postfooter.html 
+      date={{post.date}}
+      category={{post.category}}
+      url={{post.url}}
+      path={{post.path}}
+    }}
 
   </article>
   {% endfor %}
