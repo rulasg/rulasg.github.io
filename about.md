@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 excerpt: Algunas cosas que me definen
@@ -45,8 +45,3 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
 ## Agradecimientos
 
 Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore!!
-
-## Contacta
-
-{% include comments.md %}
-{% include sourcelink.html path={{page.path}}%}
