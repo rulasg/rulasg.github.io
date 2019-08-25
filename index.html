@@ -12,14 +12,19 @@ layout: default
       {{ post.excerpt }}
     </div>
 
-    <small>
-      <i>Escrito el {{ post.date | date: "%e / %b / %Y" }}</i>
-      <br>
-      <b>{{post.category}}</b>
-    </small>
-    <br>
-    <a href="{{ post.url }}" class="read-more">Leer mas</a>
-    {{ include sourcelink.html page={{post.path}}}}
+    <div class="entry-foot">
+      <div class="written-date">
+        Escrito el {{ post.date | date: "%e / %b / %Y" }}
+      </div>
+
+      <div class="category">
+        <b>{{post.category}}</b>
+      </div>
+
+      <a href="{{ post.url }}" class="read-more">Leer mas</a>
+      
+      {{ include sourcelink.html page={{post.path}}}}
+    </div>
   </article>
   {% endfor %}
 </div>

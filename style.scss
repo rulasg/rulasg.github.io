@@ -266,8 +266,24 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
     font-size: 15px;
+  }
+
+  .written-date{
+    font-style: italic;
+    font-size: 12px
+  }
+
+  .category{
+    font-weight: bold;
+  }
+
+  .source-link{
+    font-weight: bold;
+  }
+
+  .entry-foot{
+    padding-bottom: 0em;
   }
 }
 
