@@ -29,7 +29,7 @@ Para mi, respeto es la acción de volver a mirar tras nuestro paso para ver el r
 
 Entonces, respetar a alguien es hacerse responsable de la consecuencia de lo que hacemos y decimos a esa persona. Mirar, pedir disculpas y corregir si fuera necesario.
 
-Faltar el respeto entonces es hacer algo que ha sabiendas puede molestar.
+Faltar el respeto entonces es hacer algo sin poner la suficiente atención para no molestar. Ya sea a sabiendas, por arrogancia o por descuido.
 
 ### Conclusion
 
