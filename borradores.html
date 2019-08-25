@@ -11,7 +11,18 @@ layout: default
       {{ draft.excerpt }}
     </div>
 
-    <a href="{{ draft.url }}" class="read-more">LEER MÁS</a>
+    <small>
+      <i>Escrito el {{ draft.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{{draft.category}}</b>
+    </small>
+    <div>
+      <a href="{{ draft.url }}" class="read-more">LEER MÁS</a><br>
+    </div>
+    <div class= github_url>
+      <a href="{{ site.github.repository_url }}{{ draft.url }}" class="read-more">Edit</a>
+    </div>
+
   </article>
   {% endfor %}
 </div>

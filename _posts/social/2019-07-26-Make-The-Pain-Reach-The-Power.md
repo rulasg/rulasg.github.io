@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Make the pain reach the power"
+category: Social
 tags: [ideas, life]
 hashtag: MakeThePainReachThePower
 ---

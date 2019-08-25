@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Tierra, Agua, Fuego y Aire en las relaciones.
+category : Social
 categories: [blog, social]
 tags: [ideas, life]
 permalink: /draft1/
 hashtag: TierraAguaFuegoAireEnRelaciones
 ---
+Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son. Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.  
 
-> En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es un ejemplo, aunque probablemente lo podamos considerar el más relevante.
-
-Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son.
-
-Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.  
+> En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es un ejemplo, aunque probablemente la podamos considerar la más relevante.
 
 Se puede entender una relación si consideramos que está compuesta por 4 elementos básicos.
 
