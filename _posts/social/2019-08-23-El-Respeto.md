@@ -1,7 +1,6 @@
 ---
 layout: post
 title: El Respeto
-categories: [blog, social]
 tags: [ideas, life]
 hashtag: ElRespeto
 # permalink: /draft2/
@@ -23,7 +22,7 @@ Pero entonces cómo debo comportarme para no faltar el respeto si cada individuo
 ### Qué quiere decir la palabra respeto
 
 [*Definición de Respeto*](http://definicionde.org/respeto/)
-> "Del latín respectus, la palabra respeto se encuentra compuesta por re y spectrum, es decir “aparición”, que se deriva de la familia de specere o “mirar”. Por lo tanto, en un sentido etimológico la palabra implica un “volver a mirar”, pero no para quedarse con el primer vistazo, sino que se hace algo más revisar volviéndolo a mirar." 
+> "Del latín respectus, la palabra respeto se encuentra compuesta por re y spectrum, es decir “aparición”, que se deriva de la familia de specere o “mirar”. Por lo tanto, en un sentido etimológico la palabra implica un “volver a mirar”, pero no para quedarse con el primer vistazo, sino que se hace algo más revisar volviéndolo a mirar."
 
 Para mi, respeto es la acción de volver a mirar tras nuestro paso para ver el resultado y aprender de ello. Respeto es tomar responsabilidad de nuestras acciones y las consecuencias que tienen, hacia los demás y hacia las cosas.
 
