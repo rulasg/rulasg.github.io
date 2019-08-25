@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="posts">
+  {% for draft in site.borradores %}
+  <article class="posts">
+
+    <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
+
+    <div class="entry">
+      {{ draft.excerpt }}
+    </div>
+
+    <a href="{{ include.url }}" class="read-more">Leer mas</a>
+
+    {{include postfooter.html 
+      date={{post.date}}
+      category={{post.category}}
+      url={{post.url}}
+      path={{post.path}}
+    }}
+
+  </article>
+  {% endfor %}
+</div>
