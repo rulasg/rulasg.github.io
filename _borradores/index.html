@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="drafts">
+  {% for draft in site.borradores %}
+  <article class="drafts">
+
+    <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
+
+    <div class="entry">
+      {{ draft.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ draft.url }}" class="read-more">LEER MÁS</a>
+  </article>
+  {% endfor %}
+</div>
