@@ -54,10 +54,10 @@ Dicho de otra manera, por nuestra forma de ser tendemos a alimentar ciertos elem
 Muchos tratados de psicología describen el carácter de un individuo en dos planos, Introvertido/Extrovertido y Emocional/Racional.
 En base a estos planos podemos definir los elementos predominantes de una persona del siguiente modo:
 
-|              | Introvertido | Extrovertido|
-| :--: |  :--: | :--: |
-| Racional     |   Agua       | Tierra      |
-| Emocional    |   Aire       | Fuego       |
+|              | Introvertido | Extrovertido |
+| :----------: | :----------: | :----------: |
+| Racional     |   Agua       | Tierra       |
+| Emocional    |   Aire       | Fuego        |
 
 Seguro que algunas cosas empiezan a encajar.
 
