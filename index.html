@@ -11,8 +11,13 @@ layout: default
     <div class="entry">
       {{ post.excerpt }}
     </div>
-    
-    <small><i>Escrito el {{ page.date | date: "%e / %b / %Y" }}</i></small><br>
+
+    <small>
+      <i>Escrito el {{ post.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{{post.category}}</b>
+    </small>
+    <br>
     <a href="{{ post.url }}" class="read-more">LEER MÁS</a>
   </article>
   {% endfor %}
