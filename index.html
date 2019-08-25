@@ -4,15 +4,16 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+  <article class="post">
 
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ post.url }}" class="read-more">LEER MÁS</a>
-    </article>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
+    
+    <small><i>Escrito el {{ page.date | date: "%e / %b / %Y" }}</i></small><br>
+    <a href="{{ post.url }}" class="read-more">LEER MÁS</a>
+  </article>
   {% endfor %}
 </div>
