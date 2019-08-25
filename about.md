@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 excerpt: Algunas cosas que me definen
 hashtag: about
+date: 2019-08-25
 ---
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
 
