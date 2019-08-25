@@ -3,6 +3,7 @@ layout: post
 title: El Respeto
 tags: [ideas, life]
 hashtag: ElRespeto
+category: Social
 # permalink: /draft2/
 ---
 El mundo actual cambia tan rápido que hemos perdido confianza en las enseñanzas de nuestros mayores. Ya no lo saben todo, de hecho creemos que saben mas bien poco.
