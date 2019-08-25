@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Por qué <s>no</s> aconsejar a jóvenes?
-categories: [blog, social]
+category: Social
 tags: [ideas, life]
 hashtag: NoAconsejarAJovenes
 ---
