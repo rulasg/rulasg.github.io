@@ -18,7 +18,8 @@ layout: default
       <b>{{post.category}}</b>
     </small>
     <br>
-    <a href="{{ post.url }}" class="read-more">LEER MÁS</a>
+    <a href="{{ post.url }}" class="read-more">Leer mas</a>
+    {{ include sourcelink.html page={{post.path}}}}
   </article>
   {% endfor %}
 </div>
