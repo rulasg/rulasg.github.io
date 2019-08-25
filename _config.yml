@@ -8,6 +8,8 @@ name: rulasg.
 # Global hashtag for twitter
 hashtag: rulasgBlog
 
+code-branch: master
+
 #Collections
 collections:
   borradores:
