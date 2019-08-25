@@ -44,7 +44,7 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
   
 ## Agradecimientos
 
-Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore :wink:
+Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore!!
 
 ## Contacta
 
