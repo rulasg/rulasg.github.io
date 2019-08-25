@@ -6,6 +6,8 @@ hashtag: ElRespeto
 category: Social
 # permalink: /draft2/
 ---
+A dia de hoy es muy fácil hacer algo que moleste a alguien dada la falta de puesta en común y la diversidad de la gente con la que tratamos. No es una falta de respeto molestar a alguien, es una falta de respeto hacerlo con intención, por falta de interés o si no se corrige si no ha sido intencionado.
+
 El mundo actual cambia tan rápido que hemos perdido confianza en las enseñanzas de nuestros mayores. Ya no lo saben todo, de hecho creemos que saben mas bien poco.
 Eso, nuestra generación, no quiero ni pensar lo que pensaran nuestros hijos de nosotros. Como padre siento que o estudio todos los dias la tecnología, las tendencias, la sociedad, los valores, etc. que se usan a dia de hoy o no serviré como referencia para mis hijos cuando sea necesario.
 
@@ -29,10 +31,8 @@ Para mi, respeto es la acción de volver a mirar tras nuestro paso para ver el r
 
 Entonces, respetar a alguien es hacerse responsable de la consecuencia de lo que hacemos y decimos a esa persona. Mirar, pedir disculpas y corregir si fuera necesario.
 
-Faltar el respeto entonces es hacer algo sin poner la suficiente atención para no molestar. Ya sea a sabiendas, por arrogancia o por descuido.
+Faltar el respeto entonces es hacer algo sin poner la suficiente atención para no molestar, ya sea apropósito, por arrogancia o por descuido.
 
 ### Conclusión
-
-A dia de hoy es muy fácil hacer algo que moleste a alguien dada la falta de puesta en común y la diversidad de la gente con la que tratamos. No es una falta de respeto molestar a alguien, es una falta de respeto hacerlo con intención o no corregir si ha sido no intencionado.
 
 Por lo tanto compartir con los demás nuestros valores y nuestros puntos de vista es el mejor modo de evitar que te molesten. Luego el que es un gilipollas lo es.
