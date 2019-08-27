@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<div class="posts">
+<div class="drafts">
   {% for draft in site.borradores %}
-  <article class="posts">
+  <article class="drafts">
 
     <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
 
@@ -11,14 +11,17 @@ layout: default
       {{ draft.excerpt }}
     </div>
 
-    <a href="{{ include.url }}" class="read-more">Leer mas</a>
-
-    {{include postfooter.html 
-      date={{post.date}}
-      category={{post.category}}
-      url={{post.url}}
-      path={{post.path}}
-    }}
+    <small>
+      <i>Escrito el {{ draft.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{{draft.category}}</b>
+    </small>
+    <div>
+      <a href="{{ draft.url }}" class="read-more">LEER MÁS</a><br>
+    </div>
+    <div class= github_url>
+      <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ draft.path }}" class="read-more">...</a>      
+    </div>
 
   </article>
   {% endfor %}

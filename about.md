@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
 title: About
 permalink: /about/
 excerpt: Algunas cosas que me definen
 hashtag: about
-date: 2019-08-25
 ---
 Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
 
@@ -46,3 +45,7 @@ Casi siempre la felicidad no está en el qué sino en el cómo.
 ## Agradecimientos
 
 Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por su ayuda en el desarrollo y revisión de estos posts. Mil gracias Lore!!
+
+## Contacta
+
+{% include comments2.md %}
