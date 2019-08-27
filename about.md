@@ -13,9 +13,9 @@ Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio
 
 ### 1. Si no somos parte de la solución somos parte del problema
 
-No me confirmo con el mundo tal y como es. En particular en cómo la gente se trata.
+No me confirmo con el mundo tal y cómo es. En particular en cómo la gente se trata.
 
-La mentira, el egoísmo, el engaño, la picaresca... es lo que la gente espera de los demás. Y en respuesta el trato es a la defensiva.
+La mentira, el egoísmo, el engaño, la picaresca... es lo que la gente espera de los demás. Y en respuesta estamos siempre a la defensiva.
 
 El cambio comienza con uno mismo. Seamos el ejemplo que queremos para nuestros hijos y cambiemos el circulo vicioso de la desconfianza, la mentira y la picaresca por el de la confianza, el respeto, el honor, la palabra dada y el sentido de comunidad.
 
@@ -23,13 +23,11 @@ Cuanto antes cambiemos como individuos, antes cambiaremos como sociedad.
 
 ### 2. Dónde está la felicidad
 
-Corremos ansiando la zanahoria que nos ponen delante, creyendo que detrás esta la felicidad.
+Corremos ansiando la zanahoria que nos ponen delante, creyendo que detrás está la felicidad.
 
 Creemos saber qué queremos cuando aún no sabemos quiénes somos.
 
-Entendamos quienes somos, cómo somos, qué queremos, antes de intentar adivinar qué nos hace felices o donde está la felicidad.
-
-Casi siempre la felicidad no está en el qué sino en el cómo.
+Averiguar quienes somos, cómo somos, qué queremos, nuestras motivaciones y nuestras mentiras, es el camino para saber dónde está nuestra felicidad.
 
 ## Referencias
 
