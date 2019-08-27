@@ -48,5 +48,4 @@ Agradecimientos de corazón a [@loretipsum](https://twitter.com/loretipsum) por 
 
 ## Contacta
 
-{% include comments.html %}
-<!-- {% include sourcelink.html path="{{page.path}}" %} -->
+{% include comments2.md %}
