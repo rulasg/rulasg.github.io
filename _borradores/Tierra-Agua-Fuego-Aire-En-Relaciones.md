@@ -4,7 +4,6 @@ title: Tierra, Agua, Fuego y Aire en las relaciones.
 category : Social
 categories: [blog, social]
 tags: [ideas, life]
-permalink: /draft1/
 hashtag: TierraAguaFuegoAireEnRelaciones
 date: 2019-08-25
 ---
