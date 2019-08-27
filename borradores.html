@@ -18,7 +18,11 @@ layout: default
     </small>
     <div class= github_url>
       <!-- <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ draft.path }}" >...</a>       -->
-      {% include sourcelink.html path="{{draft.path}}" %}
+      <!-- {% include sourcelink.html path="{{draft.path}}" %} -->
+      {% capture source_path %}
+          {{draft.path}}
+      {% endcapture %}
+      {% include sourcelink.html path=source_Path %}
     </div>
 
   </article>
