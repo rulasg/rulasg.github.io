@@ -14,6 +14,8 @@ Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, int
 
 Se puede entender una relación si consideramos que está compuesta por 4 elementos básicos.
 
+![Los 4 elementos basicos](/images/4elementos-1.png)
+
 ## Los 4 elementos básicos
 
 Los cuatro elementos básicos de una relación son:
@@ -56,10 +58,7 @@ Dicho de otra manera, por nuestra forma de ser tendemos a alimentar ciertos elem
 Muchos tratados de psicología describen el carácter de un individuo en dos planos, Introvertido/Extrovertido y Emocional/Racional.
 En base a estos planos podemos definir los elementos predominantes de una persona del siguiente modo:
 
-|              | Introvertido | Extrovertido |
-| :----------: | :----------: | :----------: |
-| Racional     |   Agua       | Tierra       |
-| Emocional    |   Aire       | Fuego        |
+![Los 4 elementos básicos](/images/4elementos-2.png)
 
 Seguro que algunas cosas empiezan a encajar.
 
