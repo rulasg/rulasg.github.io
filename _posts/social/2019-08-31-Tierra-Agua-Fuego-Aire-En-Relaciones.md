@@ -22,13 +22,13 @@ Los cuatro elementos básicos de una relación son:
 El tiempo compartido y el contenido durante ese tiempo.
 
 1. **Fuego** -
-El contacto físico y todo lo que tenga que ver con ello.
+El contacto y la atracción física y todo lo que tenga que ver con ello.
 
 1. **Agua** -
-La opinión y el valor que cada parte tiene de la otra y sus consecuencias. Respeto, admiración, valorar, compromiso, unidad, equipo, etc.
+La opinión y el valor que cada parte tiene de la otra persona y sus consecuencias. Respeto, admiración, orgullo, compromiso, unidad, equipo, etc.
 
 1. **Aire** -
-Todos los sentimientos que surjan de una relación.
+Todos los sentimientos que surjan de la relación.
 
 Como ejemplos si pensamos en estereotipos extremos de relaciones:
 
