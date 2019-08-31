@@ -58,7 +58,7 @@ Dicho de otra manera, por nuestra forma de ser tendemos a alimentar ciertos elem
 Muchos tratados de psicología describen el carácter de un individuo en dos planos, Introvertido/Extrovertido y Emocional/Racional.
 En base a estos planos podemos definir los elementos predominantes de una persona del siguiente modo:
 
-![Los 4 elementos básicos](/images/4elementos-2.png)
+![Los 4 elementos básicos](/images/4elementos-3.png)
 
 Seguro que algunas cosas empiezan a encajar.
 
