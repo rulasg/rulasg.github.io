@@ -252,9 +252,12 @@ nav {
 }
 
 .drafts {
-  .workinprogress {
-      color: red;
+  h1 {
+  font-size: 30px;
+  a {
+    color: red;
   }
+}
 }
 
 .post {
