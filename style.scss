@@ -251,6 +251,15 @@ nav {
   border-bottom: none;
 }
 
+.drafts {
+  h1 {
+    font-size: 30px;
+    a {
+      color: red;
+    }
+  }
+}
+
 .post {
   blockquote {
     margin: 1.8em .8em;
