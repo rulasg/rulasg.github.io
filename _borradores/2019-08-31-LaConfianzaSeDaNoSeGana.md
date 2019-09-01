@@ -12,7 +12,7 @@ La confianza, un sentimiento que no controlamos pero que condiciona nuestras rel
 
 Pero que es realmente la confianza.
 
-    "Esperanza firme que una persona tiene en que algo suceda, sea o funcione de una forma determinada, o en que otra persona actúe como ella desea."
+> "Esperanza firme que una persona tiene en que algo suceda, sea o funcione de una forma determinada, o en que otra persona actúe como ella desea."
 
 Curioso que la confianza sea una esperanza. La creencia, mas allá de la razón, de que algo vaya a suceder de una manera, o en las personas, que vayan a tener un determinado comportamiento.
 
