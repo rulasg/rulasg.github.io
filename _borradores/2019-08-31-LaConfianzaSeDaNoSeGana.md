@@ -1,10 +1,10 @@
 ---
 layout: post
-title: La confianza se da no se gana
+title: La confianza no se gana, se dá
 category : Social
 categories: [blog, social]
 tags: [ideas, life]
-hashtag: LaConfianzaSeDaNoSeGana
+hashtag: LaConfianzaNoSeGanaSeDa
 date: 2019-09-01
 ---
 
