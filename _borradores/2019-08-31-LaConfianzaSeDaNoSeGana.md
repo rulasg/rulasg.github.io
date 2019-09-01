@@ -1,11 +1,11 @@
 ---
 layout: post
-title: LaConfianzaSeDaNoSeGana
+title: La confianza se da no se gana
 category : Social
 categories: [blog, social]
 tags: [ideas, life]
 hashtag: LaConfianzaSeDaNoSeGana
-date: 2019-08-31
+date: 2019-09-01
 ---
 
 La confianza, un sentimiento que no controlamos pero que condiciona nuestras relaciones y nuestra actitud ante nuestra vida. En un mundo donde no sabemos que es verdad o mentira, ¿podemos confiar? ¿debemos confiar? ¿en que basar nuestra confianza? ¿sabríamos confiar?
