@@ -16,7 +16,7 @@ Pero que es realmente la confianza.
 
 Curioso que la confianza sea una esperanza. La creencia, mas allá de la razón, de que algo vaya a suceder de una manera, o en las personas, que vayan a tener un determinado comportamiento.
 
-Yo diría más. La confianza es un mecanismo de defensa para que no te hagan daño emocional. Como ahora veremos, la confianza tiene una relación directa con las expectativas que se tienen con una persona. Si una persona no cumple tus expectativas duele. Si ademas esas expectativas son el combustible de una ilusión, el dolor es mayor. Confiar es un riesgo, que los que viven a la defensiva no quieren asumir, y usamos expresiones como que "la confianza se gana" para delegar esa responsabilidad en el otro. También están los que confían ciegamente en su "intuición" y luego refuerzan esa convicción cuando tienen razón, pero no comprueban cuantas veces estuvierón equivocados.
+Yo diría más. La confianza es un mecanismo de defensa para que no te hagan daño emocional. Como ahora veremos, la confianza tiene una relación directa con las expectativas que se tienen con una persona. Si una persona no cumple tus expectativas duele. Si ademas esas expectativas son el combustible de una ilusión, el dolor es mayor. Confiar es un riesgo, que los que viven a la defensiva no quieren asumir, y usamos expresiones como que "la confianza se gana" para delegar esa responsabilidad en el otro. También están los que confían ciegamente en su "intuición" y luego refuerzan esa convicción cuando tienen razón, pero no comprueban cuántas veces estuvieron equivocados.
 
 La confianza, un sentimiento que condiciona las relaciones.
 
@@ -28,9 +28,9 @@ Por otro lado a veces encontramos a alguien que "nos inspira confianza" e inmedi
 
 Al ser humano le cuesta mucho trabajar con conceptos incompletos. Un concepto, un conocimiento, tiene que estar completo. Cuando conocemos a alguien, lo que no sabemos de esa persona lo rellenamos nosotros. Ahí residen los prejuicios y las expectativas.
 
-Conocemos a alguien e inmediatamente, en base de la poca información que tenemos, hacemos un perfile de esa persona y le asignamos un nivel de confianza. Todo a nivel emocional sin darnos cuenta. Hay muchos artículos antropológicos que estudian este proceso. Entonces ¿quien es el actor principal en la asignación de confianza a una persona? Nosotros mismos.
+Conocemos a alguien e inmediatamente, en base de la poca información que tenemos, hacemos un perfile de esa persona y le asignamos un nivel de confianza. Todo a nivel emocional sin darnos cuenta. Hay muchos artículos antropológicos que estudian este proceso. Entonces ¿quién es el actor principal en la asignación de confianza a una persona? Nosotros mismos.
 
-La persona que es conocida tiene poco o nada que decir al respecto. Nosotros y nuestro pasado condicionan la opinión que tenemos sobre alguien que no conocemos. Y no pasa nada si luego dejáramos que las experiencias con esa persona corrigierán esta opinión, pero no siempre somos justos en esa corrección. Si nuestra primera impresión fue positiva, lo normal es que nuestra opinion mejore, pero si fue negativa probablemente empeore. Por eso se dice que "la primera opinion es la que cuenta". ¿Porque sucede esto?
+La persona que es conocida tiene poco o nada que decir al respecto. Nosotros y nuestro pasado condicionan la opinión que tenemos sobre alguien que no conocemos. Y no pasa nada si luego dejáramos que las experiencias con esa persona corrigierán esta opinión, pero no siempre somos justos en esa corrección. Si nuestra primera impresión fue positiva, lo normal es que nuestra opinion mejore, pero si fue negativa probablemente empeore. Por eso se dice que "la primera opinion es la que cuenta". ¿Por qué sucede esto?
 
 Esto sucede porque la confianza filtra la credibilidad de esa persona. Por lo tanto si desconfiamos de alguien también desconfiaremos de cuanto venga de ella, alimentando la desconfianza.
 
@@ -61,7 +61,7 @@ Queremos confiar y hacer este mundo un lugar mas agradable donde vivir y convivi
 
 Yo prefiero confiar y vencer la desconfianza que pueda tener.
 
-Eso si, no pasar por alto a aquellos que aprovechan. Precisamente los que hacen uso de la confianza ajena para aprovecharse son los que alimentan el animo social a no confiar.
+Eso si, no pasar por alto a aquellos que aprovechan. Precisamente los que hacen uso de la confianza ajena para aprovecharse son los que alimentan el ánimo social a no confiar.
 
 Defender la confianza común es responsabilidad de todos.
 
