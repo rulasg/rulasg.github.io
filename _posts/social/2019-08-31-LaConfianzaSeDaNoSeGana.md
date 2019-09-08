@@ -5,10 +5,10 @@ category : Social
 categories: [blog, social]
 tags: [ideas, life]
 hashtag: LaConfianzaNoSeGanaSeDa
-date: 2019-09-01
+date: 2019-09-08
 ---
 
-La confianza, un sentimiento que no controlamos pero que condiciona nuestras relaciones y nuestra actitud ante nuestra vida. En un mundo donde no sabemos qué es verdad o mentira, ¿podemos confiar? ¿debemos confiar? ¿sabríamos confiar? 
+La confianza, un sentimiento que no controlamos pero que condiciona nuestras relaciones y nuestra actitud ante nuestra vida. En un mundo donde no sabemos qué es verdad o mentira, ¿podemos confiar? ¿debemos confiar? ¿sabríamos confiar?
 
 Pero que es realmente la confianza.
 
@@ -16,7 +16,7 @@ Pero que es realmente la confianza.
 
 Curioso que la confianza sea una esperanza. La creencia, mas allá de la razón, de que algo vaya a suceder de una manera, o en las personas, que vayan a tener un determinado comportamiento.
 
-Yo diría más. La confianza es un mecanismo de defensa para que no te hagan daño emocional. Como ahora veremos, la confianza tiene una relación directa con las expectativas que se tienen con una persona. Si una persona no cumple tus expectativas duele. Si ademas esas expectativas son el combustible de una ilusión, el dolor es mayor. Confiar es un riesgo, que los que viven a la defensiva no quieren asumir, y usamos expresiones como que "la confianza se gana" para delegar esa responsabilidad en el otro. También están los que confían ciegamente en su "intuición" y luego refuerzan esa convicción  cuando tienen razón, pero no comprueban cuantas veces estuvierón equivocados.
+Yo diría más. La confianza es un mecanismo de defensa para que no te hagan daño emocional. Como ahora veremos, la confianza tiene una relación directa con las expectativas que se tienen con una persona. Si una persona no cumple tus expectativas duele. Si ademas esas expectativas son el combustible de una ilusión, el dolor es mayor. Confiar es un riesgo, que los que viven a la defensiva no quieren asumir, y usamos expresiones como que "la confianza se gana" para delegar esa responsabilidad en el otro. También están los que confían ciegamente en su "intuición" y luego refuerzan esa convicción cuando tienen razón, pero no comprueban cuantas veces estuvierón equivocados.
 
 La confianza, un sentimiento que condiciona las relaciones.
 
@@ -43,6 +43,7 @@ Esto también sucede al contrario. Si tenemos una buena opinion de alguien, nos 
 Como todos los sentimientos no los podemos controlar aunque los podemos influir.
 
 Hay varios estudios que demuestran que si actuamos alineados con un sentimiento el tiempo suficiente, al final el sentimiento aparece.
+
 - [Wikipedia - Fake it till you make it](https://en.wikipedia.org/wiki/Fake_it_till_you_make_it)
 - [Ted - "fake it until you become it"](https://www.youtube.com/watch?v=RVmMeMcGc0Y)
 
