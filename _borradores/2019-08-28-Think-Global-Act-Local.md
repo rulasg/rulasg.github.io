@@ -16,4 +16,4 @@ Customer -> Service
 
 Vive hoy sin olvidarte de mañana.
 
-Strategy -> Execution
+Strategic thinking -> operational Execution
