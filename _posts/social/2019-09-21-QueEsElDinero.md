@@ -8,9 +8,7 @@ hashtag: QueEsElDinero
 date: 2019-09-21
 ---
 
-Este mundo se mueve por dinero ¿Cuantas veces hemos oído eso? El dinero es una invención del ser humano, y ahora somos esclavos de él. ¿Tiene sentido que seamos esclavos de una invención nuestra? Es tan sin sentido como si después de inventar un robot nos convirtiéramos en sus esclavos. Nos posee, nos dice qué podemos o no hacer. Condiciona nuestra vida y la de nuestros hijos.
-
-![Dinero](/images/QueEsElDinero-1.jpg)
+Este mundo se mueve por dinero ¿Cuantas veces hemos oído eso? El dinero es una invención del ser humano, y ahora somos esclavos de él. ¿Tiene sentido que seamos esclavos de una invención nuestra? Es tan sin sentido como si después de inventar un robot nos convirtiéramos en sus esclavos. Nos posee, nos dice qué podemos o no hacer. Condiciona nuestra vida y la de nuestros hijos. ![Dinero](/images/QueEsElDinero-1.jpg)
 
 A quien le guste Star-Trek, en ese mundo no existe el dinero. Perdió su sentido. ¿Pero cómo puede el dinero perder su sentido? Primero debemos preguntarnos ¿qué es el dinero?
 
