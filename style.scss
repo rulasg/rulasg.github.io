@@ -293,7 +293,13 @@ footer {
 }
 
 .post_footer {
-  font-size: "75%"
+  font-size: "50%"
+}
+
+.h1-header{
+  a{
+    color:red
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
