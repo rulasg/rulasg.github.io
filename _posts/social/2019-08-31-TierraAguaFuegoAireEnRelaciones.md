@@ -8,13 +8,12 @@ hashtag: TierraAguaFuegoAireEnRelaciones
 date: 2019-08-31
 ---
 
-Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son. Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.  
+Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son. Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.
+![Los 4 elementos basicos](/images/TierraAguaFuegoAireEnRelaciones-0.png)
 
 > En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es un ejemplo, aunque probablemente la podamos considerar la más relevante.
 
 Se puede entender una relación si consideramos que está compuesta por 4 elementos básicos.
-
-![Los 4 elementos basicos](/images/TierraAguaFuegoAireEnRelaciones-0.png)
 
 ## Los 4 elementos básicos
 
