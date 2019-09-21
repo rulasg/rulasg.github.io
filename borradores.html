@@ -3,13 +3,13 @@ layout: default
 title: Borradores
 ---
 
-<div class="drafts">
+<div class="posts">
   
   {% assign borradores = (site.borradores | sort: 'date') | reverse %}
   {% for draft in borradores %}
-  <article class="drafts">
+  <article class="post">
 
-    <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
+    <h1 color="red"><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
 
     <div class="entry">
       {{ draft.excerpt }}
