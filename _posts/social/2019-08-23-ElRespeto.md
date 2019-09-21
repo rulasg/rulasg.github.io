@@ -1,10 +1,10 @@
 ---
 layout: post
 title: El Respeto
+category: Social
+categories: [blog, es, social]
 tags: [ideas, life]
 hashtag: ElRespeto
-category: Social
-# permalink: /draft2/
 ---
 A dia de hoy es muy fácil molestar a alguien dada la falta de puesta en común y la diversidad de la gente con la que tratamos. No es una falta de respeto molestar a alguien, es una falta de respeto hacerlo con intención, por falta de interés o si no se corrige.
 
