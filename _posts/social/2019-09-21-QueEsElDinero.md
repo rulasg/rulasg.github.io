@@ -2,7 +2,7 @@
 layout: post
 title: ¿Qué es el dinero?
 category : Social
-categories: [blog, social]
+categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: QueEsElDinero
 date: 2019-09-21

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decir que no
-categories: [blog, social]
+categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: DecirQueNo
 date: 2019-08-30

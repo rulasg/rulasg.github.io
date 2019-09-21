@@ -2,7 +2,7 @@
 layout: post
 title: Thing global, act local.
 category : Social
-categories: [blog, social]
+categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: ThinkGlobalActLocal
 date: 2019-08-28
