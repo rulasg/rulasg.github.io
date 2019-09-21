@@ -9,6 +9,7 @@ date: 2019-09-08
 ---
 
 La confianza, un sentimiento que no controlamos pero que condiciona nuestras relaciones y nuestra actitud ante nuestra vida. En un mundo donde no sabemos qué es verdad o mentira, ¿podemos confiar? ¿debemos confiar? ¿sabríamos confiar?
+![LaConfianzaNoSeGanaSeDa](/images/LaConfianzaNoSeGanaSeDa-1.png)
 
 Pero que es realmente la confianza.
 
