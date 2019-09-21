@@ -12,13 +12,14 @@ layout: default
       {{ post.excerpt }}
     </div>
 
-    <small>
+    <div class="post_footer">
       <i>Escrito el {{ post.date | date: "%e / %b / %Y" }}</i>
       <br>
       <b>{{post.category}}</b>
-    </small>
-    <br>
-    <a href="{{ post.url }}" class="read-more">Leer  más</a>
+      <br>
+      <a href="{{ post.url }}" class="read-more">Leer  más</a>
+    </div>
+    
   </article>
   {% endfor %}
 </div>
