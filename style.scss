@@ -278,6 +278,16 @@ nav {
     // text-transform: uppercase;
     font-size: 15px;
   }
+
+  .post_footer {
+    font-size: "25%"
+  }
+
+  .h1-header{
+    a{
+      color:red
+    }
+  }
 }
 
 .wrapper-footer {
@@ -292,13 +302,9 @@ footer {
   text-align: center;
 }
 
-.post_footer {
-  font-size: "50%"
-}
-
 .h1-header{
   a{
-    color:red
+    color:green
   }
 }
 
