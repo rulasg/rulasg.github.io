@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Qué es el dinero?
+category : Social
 categories: [blog, social]
 tags: [ideas, life]
 hashtag: QueEsElDinero
