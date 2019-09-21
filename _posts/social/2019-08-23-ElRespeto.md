@@ -7,6 +7,7 @@ tags: [ideas, life]
 hashtag: ElRespeto
 ---
 A dia de hoy es muy fácil molestar a alguien dada la falta de puesta en común y la diversidad de la gente con la que tratamos. No es una falta de respeto molestar a alguien, es una falta de respeto hacerlo con intención, por falta de interés o si no se corrige.
+![ElRespeto](/images/ElRespeto-0.jpg)
 
 El mundo actual cambia tan rápido que hemos perdido confianza en las enseñanzas de nuestros mayores. Ya no lo saben todo, de hecho creemos que saben mas bien poco.
 Eso, nuestra generación, no quiero ni pensar lo que pensarán nuestros hijos de nosotros. Como padre siento que o estudio todos los dias la tecnología, las tendencias, la sociedad, los valores, etc. que se usan a dia de hoy o no serviré como referencia para mis hijos cuando sea necesario.
