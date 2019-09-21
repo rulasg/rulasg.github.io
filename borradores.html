@@ -15,12 +15,10 @@ title: Borradores
       {{ draft.excerpt }}
     </div>
 
-    <small>
+    <div class= post_footer>
       <i>Escrito el {{ draft.date | date: "%e / %b / %Y" }}</i>
       <br>
       <b>{{draft.category}}</b>
-    </small>
-    <div>
       <a href="{{ draft.url }}" class="read-more">Leer  más</a><br>
     </div>
     <div class= github_url>
