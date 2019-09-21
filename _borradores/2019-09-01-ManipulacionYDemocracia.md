@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La Manipulación y la democracia.
+category: Social
 categories: [blog, es, social]
 tags: [ideas, life]
 hashtag: ManipulacionYDemocracia

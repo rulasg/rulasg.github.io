@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Decir que no
+category: Social
 categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: DecirQueNo

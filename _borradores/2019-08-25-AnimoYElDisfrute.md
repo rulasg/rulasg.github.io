@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El estado de animo y el disfrute
+category : Social
 categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: AnimoYElDisfrute

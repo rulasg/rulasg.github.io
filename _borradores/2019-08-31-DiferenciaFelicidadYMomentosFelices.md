@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Diferencia entre felicidad y momentos felices
+category: Social
 categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: DiferenciaFelicidadYMomentosFelices

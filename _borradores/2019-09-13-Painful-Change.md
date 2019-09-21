@@ -1,3 +1,13 @@
+---
+layout: post
+title: El cambio duele
+category: Social
+categories: [blog, es, social]
+tags: [ideas, life]
+hashtag: ElCambioDuele
+date: 2019-09-13
+---
+
 Here are my learnings from this realization and process:
 
 1. A good way to know if you should make a change is to ask yourself, if you were starting something from scratch, would you make the same decision?

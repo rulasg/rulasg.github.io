@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Cuanta gente es mala?
+category: Social
 categories: [blog, es, social]
 tags: [ideas, life]
 hashtag: CuantaGenteEsMala
