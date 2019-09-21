@@ -9,7 +9,7 @@ date: 2019-08-30
 ---
 
 La gestion del tiempo es todo un reto tanto en la vida personal como en la laboral. Siempre hay más cosas que tenemos o queremos hacer que el tiempo disponible para hacerlo. Muchas de esas tareas vienen de otra gente que pide. Por defecto, probablemente por motivos culturales, solemos decir que si. Definir un criterio para decir que no, nos ayudará a rechazar peticiones con 
-![SayNo](/images/DecirQueNo-1.png)
+![SayNo](/images/DecirQueNo-0.png)
 
 Saying No - 8/30/19
 As you reach higher levels of success, you often have the ability to help more people, and more people are likely to ask for your help. At the same time, you still have significant responsibilities to your family, career, close friends and community; people already depending on you to give them your time and attention.
