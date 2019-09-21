@@ -6,7 +6,7 @@ categories: [blog, es, social]
 tags: [ideas, life]
 hashtag: MakeThePainReachThePower
 ---
-Cuál es el motivo por lo que determinados problemas no se resuelven. Tanto en la vida laboral, como en el ámbito social o personal, podemos ver como problemas no se resuelven, aunque aparentemente el coste sea bajo y el beneficio sea elevado.
+Cuál es el motivo por lo que determinados problemas no se resuelven. Tanto en la vida laboral, como en el ámbito social o personal, podemos ver como problemas no se resuelven, aunque aparentemente el coste sea bajo y el beneficio sea elevado.  
 ![MakeThePainReachThePower](/images/MakeThePainReachThePower-0.png)
 
 “Make the pain reach the power” es una frase que acuñé hace muchos años trabajando en una multinacional, cuando me di cuenta de que las cosas solo cambian cuando el impacto de no cambiarlas afecta a la persona que tiene el poder de cambiarlas.
