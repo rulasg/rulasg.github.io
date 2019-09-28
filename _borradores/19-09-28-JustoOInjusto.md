@@ -7,10 +7,9 @@ tags: [ideas, life]
 hashtag: JustoOInjusto
 date: 2019-09-28
 ---
-Cuando oyes a la gente hablar, constantemente adjetivan algún evento o consecuencia como justo o injusto.
-Pero realmente ¿qué es justo?
+Constantemente adjetivamos eventos de justos o injustos. Pero realmente ¿qué es justo?
 
-Segun la [RAE](https://dle.rae.es/?id=MfO65xY)
+Según la [RAE](https://dle.rae.es/?id=MfO65xY)
 
 **justo, ta**  
 _Del lat. iustus._
@@ -23,45 +22,44 @@ _Del lat. iustus._
 6. adv. Justa o exactamente.
 7. adv. De manera justa o apretada.
 
-En la definición tenemos palabras como `justicia`, `razón`, `ley de dios`, `lo que debe ser`, `justicia`...  
-Para algo tan "justo" no hay definición más subjetiva.
+En la definición tenemos palabras como `justicia`, `razón`, `ley de dios`, `lo que debe ser`... Para algo tan "justo" no hay definición más subjetiva.
 
-Desde mi punto de vista, algo justo es aquello que se ajusta a lo esperado, ya sea por moral, ley o religion. Es cuestión de la expectativa del observador y el juicio de valor que haga.
-Cierto es que como la lay, moral y religión. Como estos valores suelen ser comunes en una comunidad, será habitual de los miembros de una comunidad estén de acuerdo en lo que se considera justo. Y precisamente ahí esta la confusion. Como la gente a nuestro alrededor opina como nosotros creemos que es un valor universal, y no lo es. Lo que para una comunidad es justo para otra puede ser injusto.
+Lo que yo entiendo es que algo justo es aquello que se ajusta a lo esperado, ya sea por moral,ley o religion. Depende de la expectativa del observador y el juicio de valor que haga.
+Cierto es que como la moral, la ley y religión suelen compartirse en una comunidad, es habitual que haya acuerdo entre gente que convive. Pero precisamente ahí esta la confusión. Como la gente de nuestro alrededor opina como nosotros creemos que es un juicio universal, pero no lo es. Lo que para una comunidad es justo para otra puede no serlo.
 
-Pero cuándo hacemos estos juicios. Muy habitualmente en el reproche o la protesta. Normalmente hacemos el juicio de valor en eventos que creemos no deberían haberse resuelto de ese modo. Pero cuando sucede algo donde el resultado es injustamente positivo, especialmente a nosotros, no solemos ser tan críticos.
+Solemos decir que algo es injusto cuando el resultado nos es desfavorable. Pero cuando sucede algo injustamente positivo, no solemos ser tan críticos.
 
-Pero la realidad es que, por definición, algo es justo o injusto en función de la desproporción, en positivo o negativo, a las expectativas del resultado.
+La realidad es que, por definición, algo es justo o injusto en función de la desproporción del resultado en función de las expectativas, tanto en positivo como en negativo.
 
-El animo de una persona y por lo tanto, como ya hemos hablado en otros posts, su felicidad, está muy marcada por el sentimiento de justicia, en particular la justicia negativa. Una persona donde lo malo que siente de su vida se ajusta a sus expectativas, le resultará más sencillo ser feliz. Pero aquel que sienta que es superior le resultará más difícil conciliar y por lo tanto ser feliz. Mucha gente culpa a lo injusto de su vida por su infelicidad.
+El animo de una persona y por lo tanto su felicidad, está muy condicionada por el sentimiento de injusticia, es decir justicia negativa, en su vida. Mucha gente justifica su infelicidad por lo injusto de su vida.
 
-Pero creo que nos hacemos trampa al solitario. En la cuenta de Vida Justa restamos todo aquello malo, pero no sumamos todo lo bueno que también podríamos considerar que no se ajusta a lo que deberíamos esperar. Posiblemente porque a lo bueno nos acostumbramos y rápidamente ajustamos las expectativas, o porque simplemente lo bueno nos lo merecemos siempre.
+Es justo que mis hijos hayan nacido sanos, hayan nacido en una familia que les quiere, hayan nacido en una familia que les puede dar más de lo que necesitan. Es justo que un niño en navidad tenga un juguete ¿y dos? ¿y 30? Es justo que uno tenga 30 y otro solo 1. Si no es justo que un niño tenga 30 juguetes y otro solo 1, tampoco es justo que un niño nazca sano y otro enfermo. Pero es injusto para el que nace sano o para el que nace enfermo. Es injusto para el que tiene 30 juguete o para el que tiene 1.
 
-Expectativas heredades y trampas en las cuentas. Así valoramos si nuestra vida es justa o injusta. Creo que estaremos de acuerdo que no lo es, pero entonces ¿cómo lo hacemos?
+Por definición tan injusto es el que nace en una familia rica como en una pobre, depende de las expectativas de quien juzgue. 
 
-Ahora intentemos valorar nuestras acciones. Somos nosotros justos en nuestras acciones. Es justo que mis hijos hayan nacido sanos, hayan nacido en una familia que les quiere, hayan nacido en una familia que les puede dar más de lo que necesitan. Es justo que un niño en navidad tenga un juguete ¿y dos? ¿y 30? Es justo que uno tenga 30 y otro solo 1. ¿Porque otros niños solo puedan tener 1 juguete no debo darle al mio 30? ¿Cual es la regla? ¿la norma para poder saber si mis acciones son justas?
+Creo que nos hacemos trampa al solitario. En las cuentas de "vida injusta" restamos lo malo, pero no sumamos lo injustamente bueno que tenemos. A lo bueno nos acostumbramos y rápidamente ajustamos las expectativas. Lo malo, cada dia toma mas valor.
 
-Si no es justo que un niño tenga 30 juguetes y otro solo uno, tampoco es justo que un niño nazca sano y otro enfermo. Pero es injusto para el que nace sano o para el que nace enfermo. Es injusto para el que tiene 1 juguete o para el que tiene 30.
+Expectativas heredadas, trampas en las cuentas. Difícil conciliar. Pero entonces ¿cómo lo hacemos? Como medimos si nuestra vida es justa o injusta.
 
-Por definición tan injusto es el que nace en una familia rica como en una pobre, depende de las expectativas de quien juzgue.
+No hay norma universal que regle lo justo. Lo mas proximo son las declaraciones de derechos para que sean referencia a nivel mundial. Pero estas referencias son mínimos. Cualquier persona del primer mundo vive una vida insjuatamente positiva con respecto a estas referencias.
 
-No hay regla universal que pueda reglar la justicia, pero se intenta a traves de estamentos mundiales marcar las expectativas de mínimos en determinados temas para que sean referencia a nivel mundial.
-Todos estamos de acuerdo que no es justo matar a un animal perro mascota sin motivo alguno, pero mucha gente pensará que tampoco es justo que tengan regalos en navidad.
-Los extremos están claros porque las mayoría de las comunidades del mundo comparten estas expectativas pero no los valores intermedios.
+Todos estamos de acuerdo en que no es justo, ni moral, matar a un animal sin motivo alguno, pero mucha gente pensará que tampoco es justo que una mascota tengan regalos en navidad.
+Los extremos están claros. La mayoría de las sociedades, religiones y leyes del mundo comparten los mismos valores en los extremos. Pero no tanto en el medio.
 
-Y si un mundo justo lo forman individuos justos ¿cómo me debo comportar yo para ser justo?
+Y si un mundo justo lo forman individuos justos ¿cómo me debo comportar para ser justo?
 
-No hay respuesta, o yo al menos no la he encontrado, pero si he encontrado una pauta o norma me ayuda a ser mas justo o ecuánime en mis acciones y que se ajusta a la realidad de cada sociedad.
+¿Cual es la regla, la norma para saber si nuestras acciones son justas? ¿Es una acción justa la que tiene como resultado un evento justo? ¿Y una acción injusta? ¿Porque otros niños solo puedan tener 1 juguete no debo darle al mio 30?
 
-Creo que debemos usar las expectativas del protagonista y no del observador a la ahora de definir si algo es justo. Algo será justo si se ajusta a las expectativas del que lo vive, o dicho de otro modo, si el que lo vive lo aprecia y valora. No hay nada más injusto que darle algo a alguien que no lo valora como que alguien no pueda tener algo que realmente valora. Es injusto que un perro tenga un regalo por navidad del mismo modo que es injusto que un niño tenga 30 juguetes.
+Yo no he encontrado respuesta a esta pregunta, pero si he encontrado una pauta que me ayuda a ser mas justo en mis acciones. Pauta que se ajusta a la realidad de cada sociedad.
 
-Y esto nos lleva a la primera reflexión de este post, que es justo para nosotros. Lo justo para nosotros, lo que nos merecemos, es todo aquello que sepamos valorar, que sepamos apreciar, que agradezcamos y disfrutemos. Todo aquello que no sepamos valorar es injusto que lo tengamos. Por lo tanto para vivir una vida mas justa debemos valorar y apreciar todo lo que tenemos, y seguir trabajando y luchando por tener aquello que valoramos. Todo lo demás es injusto.
+Esta pauta se basa en las expectativas del protagonista y no del observador. Algo será justo  si el que lo vive lo aprecia y valora. No hay nada más injusto que darle algo a alguien que no valore. Pero creo que siempre es justo darle algo a alguien que realmente valora. Según esta pauta creo que es injusto que un perro tenga un regalo por navidad del mismo modo que es injusto que un niño tenga 30.
 
-Y si, queda lo malo. Y sí, por definición la vida es injusta para la mayoría de nosotros, porque la mayoría de nosotros en nuestras expectativas no está que nos suceda algo malo, pero ante eso no podemos hacer nada más que trabajar y luchar para evitarlo. Si no haces nada para evitarlo, pues deberíamos ajustar nuestras expectativas de que lo justo es que nos pase. ¿Fumas? cancer. ¿Deporte de riesgo? accidente. ¿no estudias? trabajo baja cualificación. ¿No te cuidas mal? mala salud. ¿Te drogas? muerte prematura. ¿No tratas bien a la gente? soledad.
+Y esto nos lleva a la primera reflexión ¿qué es justo para nosotros? Lo justo para nosotros, lo que nos merecemos, es todo aquello que sepamos valorar, que sepamos apreciar, que agradezcamos y disfrutemos. Por lo tanto para vivir una vida más justa debemos valorar y apreciar todo lo que tenemos, y seguir trabajando y luchando por tener aquello que valoramos. Todo aquello que no sepamos valorar es injusto que lo tengamos.
 
-Dejemos de ser victimas de nuestras vidas usando "Lo justo o injusto" como clavos del ataúd de nuestra felicidad.
-Aprendamos a valorar lo que tenemos. Trabajemos por conseguir más. No ayudemos a lo que no valoramos y entendamos que hay que esperar cosas malas por lo tanto también es justo que tengamos nuestra ración de ellas.
+Y sí, queda lo malo. Y sí, por definición la vida es injusta para la mayoría de nosotros, porque la mayoría de nuestras expectativas no está que nos suceda algo malo, pero ante eso no podemos hacer nada más que trabajar y luchar para evitarlo. Si no haces nada para evitarlo,  deberías ajustar las expectativas de lo injusto de que pase. ¿Fumas? cancer. ¿Deporte de riesgo? accidente. ¿No estudias? trabajo de baja cualificación. ¿No te cuidas? mala salud. ¿Te drogas? muerte prematura. ¿No tratas bien a la gente? soledad.
 
-Por otro lado ayudamos a los demás a que también vivian una vida justa, ayudándolas a conseguir lo que valoran y a evitar lo que no valoran. Y no gastemos recursos en darle a alguien algo que no valora porque será tan injusto como quitarles algo que si hacen.
+Dejemos de ser victimas de nuestras vidas usando "Lo justo o injusto" como clavos del ataúd de nuestra felicidad. Aprendamos a valorar lo que tenemos. Trabajemos por conseguir más. Y entendamos que en la vida tendremos nuestra ración de cosas malas y por lo tanto también es justo que nos sucedan algunas, o como mínimo no es injusto.
+
+Por otro lado ayudemos a los demás a que también vivian una vida justa. Ayudémonos a conseguir lo que valoramos y no gastemos recursos en darle a alguien algo que no valora.
 
 Como me dijo una buena amiga, "lo justo no es que todos tengamos lo mismo, lo justo es que cada uno tenga lo que necesita".
