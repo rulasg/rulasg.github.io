@@ -2,19 +2,18 @@
 layout: post
 title: Tierra, Agua, Fuego y Aire en las relaciones.
 category : Social
-categories: [blog, social]
+categories: [blog, es, social]
 tags: [ideas, life]
 hashtag: TierraAguaFuegoAireEnRelaciones
 date: 2019-08-31
 ---
 
 Todos los días tratamos con gente, ya sea en el ámbito familiar, personal, intimo o profesional. Ese trato genera relaciones que suelen ser fáciles, pero a veces no lo son. Cuando intentamos averiguar el porqué de esa dificultad es complicado llegar a alguna conclusión. Todos tenemos nuestra complejidad que traemos a nuestras relaciones.  
+![Los 4 elementos basicos](/images/TierraAguaFuegoAireEnRelaciones-0.png)
 
 > En este post entenderemos por `"relación"` a la influencia personal de una, o más personas, sobre otra. La relación de pareja es un ejemplo, aunque probablemente la podamos considerar la más relevante.
 
 Se puede entender una relación si consideramos que está compuesta por 4 elementos básicos.
-
-![Los 4 elementos basicos](/images/4elementos-1.png)
 
 ## Los 4 elementos básicos
 
@@ -58,7 +57,7 @@ Dicho de otra manera, por nuestra forma de ser tendemos a alimentar ciertos elem
 Muchos tratados de psicología describen el carácter de un individuo en dos planos, Introvertido/Extrovertido y Emocional/Racional.
 En base a estos planos podemos definir los elementos predominantes de una persona del siguiente modo:
 
-![Los 4 elementos básicos](/images/4elementos-3.png)
+![Los 4 elementos básicos](/images/TierraAguaFuegoAireEnRelaciones-1.png)
 
 Seguro que algunas cosas empiezan a encajar.
 

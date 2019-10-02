@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Esperanza
-categories: [blog, social]
+category: Social
+categories: [blog, es,  social]
 tags: [ideas, life]
 hashtag: Esperanza
 date: 2019-08-31
