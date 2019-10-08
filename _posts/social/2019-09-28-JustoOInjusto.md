@@ -7,7 +7,8 @@ tags: [ideas, life]
 hashtag: JustoOInjusto
 date: 2019-09-28
 ---
-Constantemente adjetivamos eventos de justos o injustos. Pero realmente ¿qué es justo?
+Constantemente adjetivamos eventos de justos o injustos. Pero realmente ¿qué es justo? y ¿cómo podemos hacer un mundo mas justo?
+![JustoOInjusto](/images/JustoOInjusto-0.jpg)
 
 Según la [RAE](https://dle.rae.es/?id=MfO65xY)
 
