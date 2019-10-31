@@ -21,7 +21,17 @@ El cambio comienza con uno mismo. Seamos el ejemplo que queremos para nuestros h
 
 Cuanto antes cambiemos como individuos, antes cambiaremos como sociedad.
 
-### 2. Dónde está la felicidad
+### 2. No llega antes el que va más rápido sino el que sabe dónde va
+
+Antes de ponernos a andar debemos saber a dónde queremos ir.
+
+Tener claro qué queremos, que necesitamos, nuestros proyectos, nuestros objetivos, etc.
+
+A nuestro alrededor tenemos a todos contestando a esta preguntas por nosotros. Para confirmar que es tú elección intenta recordar los motivos por los que elegiste esta dirección. Si los sientes tuyos, perfecto, sino puede que sea el momento de pararse y replantearse qué dirección quieres tomar.
+
+Para sentirte fiel y autentico, y no sentir que has perdido el tiempo en unos años, asegurate de que es tu elección y no una receta heredada.
+
+### 3. Dónde está la felicidad
 
 Corremos ansiando la zanahoria que nos ponen delante, creyendo que detrás está la felicidad.
 
