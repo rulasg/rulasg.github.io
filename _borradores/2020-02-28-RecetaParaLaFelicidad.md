@@ -8,7 +8,9 @@ hashtag: RecetaParaLaFelicidad
 date: 2020-02-28
 ---
 
-En este mundo donde el capitalismo y la democracia, políticas económicas y sociales que le dan el poder de decisión al individuo, donde las redes sociales nos permiten mostrar nuestra cara mas `feliz`, el individuo no parece llegar a la felicidad.  Como sociedad hemos llegado al mejor momento de la historia en cuanto a calidad de vida, pero aun asi el individuo parece llegar a la felicidad prometida.
+En este mundo donde el capitalismo y la democracia, donde el poder de decisión al tiene el individuo, donde las redes sociales nos permiten mostrar nuestra cara más `feliz`, el individuo no parece llegar a la felicidad.  Como sociedad hemos llegado al mejor momento de la historia en cuanto a calidad de vida, pero aún así el individuo parece nunca conseguir llegar a la felicidad prometida.
+¿Cual podría ser la recenta de la felicidad?
+![RecetaParaLaFelicidad](/images/RecetaParaLaFelicidad-0.jpg)
 
 Desde que nacemos nos están diciendo donde está la felicidad. si estudias, si haces, si te compras, si te casas, si te... seras feliz. Luego hacemos todas esas cosas y la felicidad prometida no se presenta. Las expectativas no se cubren. Mi tio me dijo hace años, "la única obligación en la vida que tienes es ser feliz. Sé lo ". ¿Ser feliz es una obligación?  Si lo haces y lo tienes `todo` y no eres feliz, ¿la culpa es tuya?. El foco del problema se torna en nosotros y aparece la depresión. Somos la sociedad mas deprimida de la historia.
 
