@@ -14,7 +14,7 @@ Desde que nacemos nos están diciendo donde está la felicidad. si estudias, si 
 
 Esta claramente instaurada la creencia de que la felicidad es una suma de momentos felices. Redes sociales, anuncios, muchos amigos, nuestro propio cuerpo nos insta a buscar infinidad de momentos felices, momentos de placer, pero como un destello de luz en la oscuridad, transcurrido el momento volvemos donde estábamos. Entonces creemos que el problema esta en que no tenemos suficiente momentos felices, y volvemos a repetir. Pero en cada intento ese momento cada vez es un poco menos feliz. Como cuando nos tomamos un postre, si repetimos cada vez nos gusta menos hasta llegar el punto que nos empacha.
 
-A mi entender, confundimos la felicidad y ser feliz como hacemos con el dolor y el sufrimiento. Conocemos gente que no tiene dolores y sufre mucho, y otros que tienen muchos dolores pero no sufren. Como decía `Patrick Swayze`en `de profesion durop` "El dolor duele".
+A mi entender, confundimos la felicidad y ser feliz como hacemos con el dolor y el sufrimiento. Conocemos gente que no tiene dolores y sufre mucho, y otros que tienen muchos dolores pero no sufren. Como decía `Patrick Swayze` en `de profesión duro` "El dolor duele".
 Las filosofías orientales entienden que uno es una sensación y lo otro es lo que hacemos nosotros de ello. La actitud ante esa sensación, o el estado de animo que se deriva de esa sensación. Por supuesto hay que ser fuerte para separa el dolor del sufrimiento, pero la diferencia esta en nosotros.
 
 Creo que el individuo busca la felicidad donde no esta. Todos estos consejos que todo el mundo nos da, todos los anuncios, las redes sociales, el consumismo... nos marcan la dirección equivocada. ¿Entonces donde está la felicidad?
@@ -26,7 +26,7 @@ Los niños pequeños, están alegres porque sienten que sus padres les quieren. 
 
 Ademas de pequeños no elegimos nuestras relaciones. Familia, hijos de los amigos de nuestros padres, compañeros de colegio, prácticamente es toda elección que tenemos. Si no tienes suerte y no encuentras esas relaciones que te hacen sentir a gusto, seguro, querido, pronto tu infancia se convierte también en infeliz.
 
-Eligir bien tus relaciones de adulto es clave. Pero las relaciones humanas son complicadas y se cultivan muy despacio. Ademas el camino del conocerse para poder volver a tener esa actitud que te permita sentirte alegre con la gente apropiada, tambien es largo. Por eso se dice que el camino a la felicidad es largo y duro. Es una actitud de vida que te permite, de repente un dia , darte cuenta que la mayoría del tiempo estas alegre y sientes que puedes decir que eres feliz.
+Eligir bien tus relaciones de adulto es clave. Pero las relaciones humanas son complicadas y se cultivan muy despacio. Ademas el camino del conocerse para poder volver a tener esa actitud que te permita sentirte alegre con la gente apropiada, también es largo. Por eso se dice que el camino a la felicidad es largo y duro. Es una actitud de vida que te permite, de repente un dia , darte cuenta que la mayoría del tiempo estas alegre y sientes que puedes decir que eres feliz.
 
 Receta de la felicidad
 
