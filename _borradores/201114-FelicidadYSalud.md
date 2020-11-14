@@ -1,3 +1,13 @@
+---
+layout: post
+title: La felicidad es como la salud
+category: Social
+categories: [blog, es, social]
+tags: [ideas, life]
+hashtag: FelicidadYSalud
+---
+
+
 La felicidad es como la salud.
 
 Tengo salud? soy feliz?
