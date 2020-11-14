@@ -7,13 +7,15 @@ tags: [ideas, life]
 hashtag: FelicidadYSalud
 ---
 
-
 La felicidad es como la salud.
 
 Tengo salud? soy feliz?
 
 Cuidamos de nuestra salud como cuidamos nuestra felicidad . 
 
-podemos darnos caprichos pero si lo descuidamos se acaba deteriorando.
+Podemos darnos caprichos pero si lo descuidamos se acaba deteriorando.
 
-El camino a la salud como el vino a la felicidad se consiguen con disciplina y haciendo lo que debemos
+El camino a la salud es como el camino a la felicidad, se consiguen con disciplina y haciendo lo que debemos no nos apetezca
+
+
+ 
