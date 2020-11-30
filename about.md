@@ -5,7 +5,11 @@ permalink: /about/
 excerpt: Algunas cosas que me definen
 hashtag: about
 ---
-Familia, gente, motos, bailar, contar y que me cuente. La tecnología como medio para hacer a la humanidad más humanos.
+
+Familia, amigos, gente, el individuo y la comunidad. La montaña, bailar, el motor, la ciencia y tecnología en todas sus formas.  
+Pasear, la salsa, el cine, montar en moto, charlar, contar y que me cuenten, entender las cosas.
+
+La coherencia, la verdad, la palabra dada, el honor.
 
 [Agradecimientos](#agradecimientos)
 
