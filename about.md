@@ -43,6 +43,10 @@ Creemos saber qué queremos cuando aún no sabemos quiénes somos.
 
 Averiguar quienes somos, cómo somos, qué queremos, nuestras motivaciones y nuestras mentiras, es el camino para saber dónde está nuestra felicidad.
 
+*El conocimiento propio no depende de ninguna fórmula. Uno puede ir al psicólogo o al psicoanalista para descubrir lo que uno es, pero eso no es conocimiento propio. El conocimiento propio surge cuando nos damos cuenta de nosotros mismos en la relación, la cual nos muestra lo que somos de momento en momento. La relación es un espejo en el cual nos vemos tal como realmente somos. Sin embargo, la mayoría somos incapaces de mirar lo que somos en la relación, porque de inmediato empezamos a condenar o justificar lo que vemos. Juzgamos, valoramos, comparamos, negamos o aceptamos, nunca observamos realmente ‘lo que es’, y para casi todos parece que esto es algo muy difícil de hacer. Sin embargo, observar “lo que es” es en sí mismo conocimiento propio.*
+
+**[J.Krishnamurti - Obras completas, tomo IX](http://legacy.jkrishnamurti.org/es/krishnamurti-teachings/view-daily-quote/20150828.php?t=La%20relaci%C3%B3n)**
+
 ## Referencias
 
 ![https://simonsinek.com/about/simon-sinek](/images/simonsinek.png)
