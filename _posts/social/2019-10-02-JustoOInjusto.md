@@ -63,4 +63,4 @@ Dejemos de ser victimas de nuestras vidas usando "Lo justo o injusto" como clavo
 
 Entendamos que las cosas hay que valorarlas en el contexto en el que suceden. Ayudemos a otros a conseguir aquellos que valoran y dejemos de darles cosas que no valoran por el hecho de que otros también lo tienen. Cada uno puede o sabe valorar cosas distintas y por lo tanto no todos nos merecemos lo mismo. Todos nacemos iguales pero en contextos distintos. Nuestras acciones y valores en ese contexto es lo que nos diferencia.
 
-> Lo justo no es que todos tengamos lo mismo, lo justo que es que cada uno tenga lo que necesita o realmente valora.
+> Lo justo no es que todos tengamos lo mismo, lo justo que es que cada uno tenga lo que necesita y realmente valora.
