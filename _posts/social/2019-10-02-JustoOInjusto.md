@@ -8,6 +8,7 @@ hashtag: JustoOInjusto
 date: 2019-10-02
 ---
 La vida es injusta. Constantemente adjetivamos eventos de justos o injustos. Pero realmente ¿qué es justo? En un mundo tan distinto y con tantos desequilibrios ¿qué es justo y qué podemos hacer para que sea un poco menos injusto?
+![JustoOInjusto](/images/JustoOInjusto-0.jpg)
 
 Según la [RAE](https://dle.rae.es/?id=MfO65xY)
 
