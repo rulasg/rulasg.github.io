@@ -8,6 +8,10 @@ hashtag: ConfianzaTrabajoEnEquipo
 date: 2022-03-30
 ---
 
+Colaborar es el ejercicio de juntar a gente para que a traves de la unión de conocimiento y capacidades consigan resultados mayores que la suma individual. Pero cual es la diferencia entre un equipo y un grupo de individuos colaborando. Como yo lo entiendo es la cofianza existente entre estos miembros.
+
+## Ideas a desarrollar
+
 1. La confianza se gana con el trato y la constancia d eun comportamiento predecible.
 2. Si frenas 100 veces y los frenos tardan en responder mas de lo esperado aunque sea una vez, la confianza se va perdiendo.
 3. Vas a la velocidad que te permite la confianza que tienes en las dependencias que tienes.
